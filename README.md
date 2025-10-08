@@ -334,7 +334,7 @@ If you use this project in your research or work, please cite:
   author={Your Name},
   year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/yourusername/big4-audit-risk-analysis}}
+  howpublished={\url{https://github.com/BigTime5/big4-audit-risk-analysis}}
 }
 ```
 
