@@ -108,7 +108,7 @@ scipy >= 1.7.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/big4-audit-risk-analysis.git
+git clone https://github.com/BigTime5/big4-audit-risk-analysis.git
 cd big4-audit-risk-analysis
 
 # Install dependencies
@@ -156,7 +156,7 @@ Tracks evolution of:
 
 ### 4️⃣ **Industry Risk Profiling**
 
-**Finance** emerges as the highest-risk sector with a 0.153 risk ratio, followed by Healthcare (0.144), while Retail and Tech show relatively lower risk profiles.
+**Health** emerges as the highest-risk sector with a 0.153 risk ratio, followed by Finance (0.144), while Retail and Tech show relatively lower risk profiles.
 
 ### 5️⃣ **AI Adoption Impact Assessment**
 
@@ -295,14 +295,13 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📞 Contact & Support
 
-**Project Maintainer**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Project Maintainer**: [Phinidy George]  
+**Email**: phinidygeorge01@gmail.com 
+
 
 ### 🐛 Issues & Bug Reports
 
-Found a bug? Please [open an issue](https://github.com/yourusername/big4-audit-risk-analysis/issues) with:
+Found a bug? Please [open an issue](https://github.com/BigTime5/big4-audit-risk-analysis/issues) with:
 - Detailed description
 - Steps to reproduce
 - Expected vs. actual behavior
